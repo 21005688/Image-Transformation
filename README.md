@@ -142,7 +142,7 @@ plt.show()
 
 ```
 ## Output:
-![img1]()
+![img1](https://github.com/21005688/Image-Transformation/blob/main/img1.png)
 ### i)Image Translation
 ![img2]()
 
