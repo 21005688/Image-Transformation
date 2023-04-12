@@ -144,32 +144,32 @@ plt.show()
 ## Output:
 ![img1](https://github.com/21005688/Image-Transformation/blob/main/img1.png)
 ### i)Image Translation
-![img2]()
+![img2](https://github.com/21005688/Image-Transformation/blob/main/img2.png)
 
 
 ### ii) Image Scaling
-![img3]()
+![img3](https://github.com/21005688/Image-Transformation/blob/main/img3.png)
 
 
 
 ### iii)Image shearing
-![img4]()
+![img4](https://github.com/21005688/Image-Transformation/blob/main/img4.png)
 
 
 
 ### iv)Image Reflection
-![img5]()
+![img5](https://github.com/21005688/Image-Transformation/blob/main/img5.png)
 
 
 
 ### v)Image Rotation
-![img6]()
+![img6](https://github.com/21005688/Image-Transformation/blob/main/img6.png)
 
 
 
 
 ### vi)Image Cropping
-![img7]()
+![img7](https://github.com/21005688/Image-Transformation/blob/main/img7.png)
 
 
 
